@@ -1,0 +1,177 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    text-decoration: none;
+}
+
+h1 a:hover {
+    text-decoration: none !important;
+
+}
+
+
+.topheader {
+    background-color: #A39E4B;
+    padding-top: 15px;
+    text-align: center;
+    
+}
+
+.topheader a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+
+.navbar-brand a {
+    font-size: 1.2rem;
+    
+}
+
+.navbar a {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    margin: 30px;
+
+
+}
+
+.navbar a:hover {
+    color: #A39E4B;
+    cursor: pointer;
+    -webkit-transition: color 0.7s ease-out; 
+    -moz-transition: color 0.7s ease-out; 
+    -o-transition: color 0.7s ease-out;
+    transition: color 0.7s ease-out;
+}
+
+
+
+
+ .main {
+    background-image: url('img/mic.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh; 
+    padding-top: 4%;
+} 
+
+.main h1 {
+    color: #A39E4B;
+    text-align: center;
+    font-size: 135px;
+    letter-spacing: 20px;
+
+    
+}
+
+.main p {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+} 
+
+
+.episode {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-transform: uppercase;
+
+}
+
+.glat a:hover {
+    color: rgb(175, 16, 16) !important;
+    cursor: pointer;
+    -webkit-transition: color 0.7s ease-out; 
+    -moz-transition: color 0.7s ease-out; 
+    -o-transition: color 0.7s ease-out;
+    transition: color 0.7s ease-out;
+    text-decoration: none;
+}
+
+.view {
+    text-transform: uppercase;
+}
+
+.new {
+    padding-top: 5%;
+    padding-bottom: 7%;
+
+}
+
+.new a {
+    color: #000;
+}
+
+.new a:hover {
+    color: rgb(175, 16, 16) !important;
+    cursor: pointer;
+    -webkit-transition: color 0.7s ease-out; 
+    -moz-transition: color 0.7s ease-out; 
+    -o-transition: color 0.7s ease-out;
+    transition: color 0.7s ease-out;
+    text-decoration: none;
+}
+
+
+.email a {
+    color: #000;
+    t
+    
+}
+
+
+footer {
+	background-color: #202020;
+	color: #fff;
+	text-align: center;
+	padding: 2%;
+}
+
+
+.fa {
+	padding: 30px;
+	font-size: 30px;
+	width: 80px;
+	text-align: center;
+	text-decoration: none;
+    margin: 10px;
+    border-radius: 50%;
+  }
+
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+
+  .fa-instagram {
+	background: #125688;
+	color: white;
+  }  
+
+  .fa-youtube {
+	background: #007bb5;
+	color: white;
+  }
+
+  button {
+    background-color: #008CBA; 
+    border: none;
+    color: white;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+  }
+ 
+ 
